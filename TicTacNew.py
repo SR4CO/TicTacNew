@@ -68,3 +68,6 @@ label4.place(x=340, y=60)
 
 
 root.mainloop()
+
+
+# © Bruno Wim Tale Kuhblank und Marco Srajer
